@@ -25,3 +25,6 @@ During this course, I learned the basics of digital system design and hardware d
 - Simulation and testing with testbenches
 - FPGA implementation
 
+## Term Project
+-Created an Electronic Battleship Game on FPGA
+-Implemented it both digitally on Digital an physically on the FPGA
